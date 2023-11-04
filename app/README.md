@@ -23,6 +23,10 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+
+![project4final](https://github.com/joannanjeri/project4/assets/112664855/93660772-3c00-4762-93ec-3f8bf6b588b6)
+
+
 <img src='walkthrough.gif' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
